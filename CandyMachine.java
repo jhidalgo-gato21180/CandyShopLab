@@ -13,7 +13,7 @@ public class CandyMachine {
     }
 
    public static void verse1() {
-        System.out.println("Welcome to Shoreline's Computer Candy Machine!");
+        System.out.println("Welcome to CCHS's Computer Candy Machine!");
        System.out.println("(All candy provided is virtual.)");
    }
    public static void verse2() {
